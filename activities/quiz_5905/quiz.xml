@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="91" moduleid="5905" modulename="quiz" contextid="19784">
+  <quiz id="91">
+    <name>Quiz: Identify Breaches of Confidentiality</name>
+    <intro>&lt;h1&gt;Quiz: Identify Breaches of &lt;span class="nolink"&gt;Confidentiality&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Let’s see how the issue of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; plays out in some real-world situations.&lt;/p&gt;
+&lt;p&gt;For the following eight scenarios, consider the actions of the educator or program and decide whether or not it depicts a likely breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;When you have completed the quiz, you may either click &lt;span style="color: #377fc7;"&gt;&lt;a href="$@COURSEVIEWBYID*158@$"&gt;&lt;span style="color: #377fc7;"&gt;&lt;span class="nolink"&gt;here&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; to return to the course's home page, or continue straight on to the Reflection Activity. &lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>adaptivenopenalty</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65552</reviewattempt>
+    <reviewcorrectness>65552</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>65536</reviewspecificfeedback>
+    <reviewgeneralfeedback>65552</reviewgeneralfeedback>
+    <reviewrightanswer>65552</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>1471,1470,1469,1472,1473,1488,1474,1475,0</questions>
+    <sumgrades>8.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1469735759</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="632">
+        <question>1469</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="633">
+        <question>1470</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="634">
+        <question>1471</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="635">
+        <question>1472</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="636">
+        <question>1473</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="637">
+        <question>1488</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="638">
+        <question>1474</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="639">
+        <question>1475</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="133">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="90" moduleid="5897" modulename="quiz" contextid="19776">
+  <quiz id="90">
+    <name>Quiz: Rehab Act case studies</name>
+    <intro>&lt;p&gt;Let’s further explore the ideas in the Rehab Act by examining some case studies.&lt;/p&gt;
+&lt;p&gt;Shiree, Geo, and Corey each have specific learning disabilities. As you read each of their cases, consider their protections and responsibilities under the Rehab Act, particularly issues relating to &lt;span class="nolink"&gt;self-disclosure&lt;/span&gt; and self-advocacy.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;When you have completed the quiz, you may either click &lt;a href="$@COURSEVIEWBYID*158@$"&gt;here&lt;/a&gt; to return to the course's home page, or continue straight on to the next section, Resources for employment-related anti-discrimination in the Rehab Act&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>adaptivenopenalty</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65552</reviewattempt>
+    <reviewcorrectness>65552</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>65536</reviewspecificfeedback>
+    <reviewgeneralfeedback>65552</reviewgeneralfeedback>
+    <reviewrightanswer>65552</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>1480,1481,1482,1483,1484,1485,0</questions>
+    <sumgrades>6.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1487881904</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="626">
+        <question>1484</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="627">
+        <question>1485</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="628">
+        <question>1482</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="629">
+        <question>1483</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="630">
+        <question>1480</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="631">
+        <question>1481</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="134">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

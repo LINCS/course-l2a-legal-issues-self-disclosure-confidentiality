@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="103" moduleid="5892" modulename="book" contextid="19771">
+  <book id="103">
+    <name>Federal laws affecting adults with LD</name>
+    <intro>&lt;p&gt;intro&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1468873882</timecreated>
+    <timemodified>1468878472</timemodified>
+    <chapters>
+      <chapter id="801">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Federal laws affecting adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;&lt;span style="line-height: 1.231;"&gt;Federal laws affecting adults with LD&lt;/span&gt;&lt;/h1&gt;
+&lt;p class="Subhead"&gt;&lt;span style="line-height: 1.231;"&gt;Our first guiding question asks:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Which federal laws affect adults with LD? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Let’s begin by discussing three such laws.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/law_books.jpg" width="450" height="560" alt="Photo of a stack of law books with a gavel." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468878697</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="802">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Three federal laws affecting adults with LD have similarities and differences</title>
+        <content>&lt;h1 class="Subhead"&gt;Three federal laws affecting adults with LD have similarities and differences&lt;/h1&gt;
+&lt;p&gt;Three federal laws affect adults with LD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the &lt;b&gt;Individuals With Disabilities Education Act (&lt;span class="nolink"&gt;IDEA&lt;/span&gt;)&lt;/b&gt;, most recently reauthorized in 2004;&lt;/li&gt;
+&lt;li&gt;the &lt;b&gt;&lt;span class="nolink"&gt;Rehabilitation Act&lt;/span&gt; of 1973&lt;/b&gt; (also known as the Rehab Act); and&lt;/li&gt;
+&lt;li&gt;the &lt;b&gt;Americans With Disabilities Act Amendments Act (&lt;span class="nolink"&gt;ADAAA&lt;/span&gt;)&lt;/b&gt;, 2008.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[NOTE:&lt;b&gt; &lt;/b&gt;The Americans With Disabilities Act (ADA) was amended in 2008 and is now referred to as the &lt;span class="nolink"&gt;ADAAA&lt;/span&gt;. It is sometimes still referred to as the ADA.]&lt;/p&gt;
+&lt;p&gt;These three laws have similarities and differences. We will briefly examine important parts of these laws to improve your understanding of how individuals with LD can better advocate for their needs and accommodations.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1469738723</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="803">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Major Provisions of IDEA, Rehab Act, and ADAAA</title>
+        <content>&lt;p class="Subhead"&gt;Major Provisions of &lt;span class="nolink"&gt;IDEA&lt;/span&gt;, &lt;span class="nolink"&gt;Rehab Act&lt;/span&gt;, and &lt;span class="nolink"&gt;ADAAA&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This chart provides a brief overview of the three federal laws that affect adults with LD. Only the &lt;span class="nolink"&gt;Rehab Act &lt;/span&gt;and &lt;span class="nolink"&gt;ADAAA&lt;/span&gt; apply directly to the needs of adults with a specific learning disability. Take a moment to review the chart to familiarize yourself with the major provisions of each law before moving on.&lt;/p&gt;
+&lt;table border="2" cellpadding="0" align="left" style="border: 2px solid #000000; width: 537px; height: 304px;" cellspacing="0" rules="all"&gt;
+&lt;thead&gt;
+&lt;tr align="center" valign="middle" dir="ltr" style="height: 20px; background-color: #033295;"&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium; background-color: #033295;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;span class="nolink"&gt;IDEA&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium; background-color: #033295;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Rehab Act&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium; background-color: #033295;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;span class="nolink"&gt;ADAAA&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr align="left" valign="top"&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li class="p1" style="text-align: left;"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Individualized education programs (IEPs)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1" style="text-align: left;"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Provides for free and appropriate education&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1" style="text-align: left;"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Protects the rights of parents and children with disabilities&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1" style="text-align: left;"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Has least restrictive environment&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1" style="text-align: left;"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Allows states to receive federal funds to provide special education services&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Civil rights law&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Makes discrimination unlawful in federally funded employment and activities (including schools)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small; background-color: #ffffff;"&gt;Provides limited funding to state rehabilitation agencies&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small;"&gt;Civil rights law&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small;"&gt;Extends Section 504 of the Rehab Act&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small;"&gt;Prohibits discrimination against the disabled in all aspects of society&lt;/span&gt;&lt;/li&gt;
+&lt;li class="p1"&gt;&lt;span style="font-size: small;"&gt;Provides no funding&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Individuals With Disabilities Education Act (IDEA)&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1469738769</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

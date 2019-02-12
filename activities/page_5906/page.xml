@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1368" moduleid="5906" modulename="page" contextid="19785">
+  <page id="1368">
+    <name>Reflection Activity</name>
+    <intro>&lt;p&gt;reflection &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 class="Subhead" style="text-align: left;"&gt;Activity: Share your ideas for improving your program’s &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; procedures&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;Please take a moment to reflect on your organization’s &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; procedures, in comparison to what we have just discussed. Based on what you have learned so far in this course, how might you improve, add to, or change those procedures and/or how they are carried out?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Please share your ideas and read other teachers’ responses in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-learning-achieve-legal-issues-self-disclosure-and-confidentiality-adults" target="_blank"&gt;LINCS Disabilities in Adult Education Group&lt;/a&gt; before moving on.&lt;/p&gt;
+&lt;p class="Label" style="text-align: left;"&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;When you have finished posting your reflections, continue on to the Conclusion.&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1469725893</timemodified>
+  </page>
+</activity>

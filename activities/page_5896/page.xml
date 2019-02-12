@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1366" moduleid="5896" modulename="page" contextid="19775">
+  <page id="1366">
+    <name>Rehab Act Case Studies - Introduction</name>
+    <intro>&lt;p&gt;page&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;&lt;span class="nolink"&gt;Rehab Act Case Studies - Introduction&lt;/span&gt;&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;Let’s further explore the ideas in the Rehab Act by examining some case studies.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Shiree, Geo, and Corey each have specific learning disabilities. As you listen to each of their cases, consider their protections and responsibilities under the Rehab Act, particularly issues relating to &lt;span class="nolink"&gt;self-disclosure&lt;/span&gt; and self-advocacy.&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1469738912575_449" style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/ShireeGeoCorey.jpg" width="570" height="293" alt="Three headshot photos of people: Middle-Eastern woman named Shiree; African-American man named Geo; Caucasian man named Corey." /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;Continue to the Quiz: Rehab Act case studies to look at an employment example.&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1469739579</timemodified>
+  </page>
+</activity>

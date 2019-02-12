@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="106" moduleid="5899" modulename="book" contextid="19778">
+  <book id="106">
+    <name>Americans with Disabilities Act Amendments Act (ADAAA)</name>
+    <intro>&lt;p&gt;ADAAA section&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1468873882</timecreated>
+    <timemodified>1469044207</timemodified>
+    <chapters>
+      <chapter id="819">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>ADAAA extends the concepts of the Rehab Act</title>
+        <content>&lt;h1 class="Subhead"&gt;ADAAA extends the concepts of the Rehab Act&lt;/h1&gt;
+&lt;p&gt;Now let’s examine the ADAAA. The Americans with Disabilities Act or ADA was enacted in 1990 and amended in 2008, which is why it is now called the Americans with Disabilities Act Amendments Act or ADAAA.&lt;/p&gt;
+&lt;p&gt;The ADAAA is a civil rights act and extends the concepts of the Rehab Act.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/ramp%20and%20wheelchair.jpg" width="580" height="435" alt="Photo of a disabled parking placard next to a wheelchair ramp in a parking lot." /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468944963</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="820">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Purpose of the ADAAA</title>
+        <content>&lt;h1 class="Subhead"&gt;Purpose of the &lt;span class="nolink"&gt;ADAAA&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;The purpose of the ADAAA is to make a broad range of American society nondiscriminatory, not just entities that receive federal funds. It encompasses access to most adult life situations, such as education, employment, public services, everyday facilities (banks, hotels, and stores), telecommunications and transportation. Any employer with more than 15 employees is required to comply with this law. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468971171</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="821">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Comparing the ADAAA to the Rehab Act</title>
+        <content>&lt;h1 class="Subhead"&gt;Comparing the ADAAA to the Rehab Act&lt;/h1&gt;
+&lt;p&gt;Like the Rehab Act, the ADAAA:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;is applicable to individuals of all ages;&lt;/li&gt;
+&lt;li&gt;requires &lt;span class="nolink"&gt;self-disclosure&lt;/span&gt;; and&lt;/li&gt;
+&lt;li&gt;is based on reasonable accommodations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unlike the Rehab Act, it &lt;b&gt;does not&lt;/b&gt; provide funding for services.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Next, let’s &lt;a href="$@BOOKVIEWBYID*5900@$"&gt;compare the IDEA, Rehab Act and ADAAA&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1469132630</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="102" moduleid="5890" modulename="book" contextid="19769">
+  <book id="102">
+    <name>Introduction</name>
+    <intro>&lt;p&gt;intro&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1468873882</timecreated>
+    <timemodified>1468873882</timemodified>
+    <chapters>
+      <chapter id="797">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome to this LINCS course</title>
+        <content>&lt;h1&gt;&lt;span class="nolink"&gt;Introduction&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Welcome to the &lt;i&gt;Legal Issues, &lt;span class="nolink"&gt;Self-Disclosure&lt;/span&gt;, and &lt;span class="nolink"&gt;Confidentiality&lt;/span&gt;&lt;/i&gt;&lt;b&gt; &lt;/b&gt;online course of the Learning to Achieve Training Program, a research-based training on serving adults with learning disabilities.&lt;/p&gt;
+&lt;p&gt;This program is brought to you by the Literacy Information and Communication System (LINCS).&lt;/p&gt;
+&lt;p&gt;This course was developed under the LINCS Regional Professional Development Center for Adult Education&lt;b&gt;, &lt;/b&gt;PR/Award Number V191B110003, administered by the Office of Career, Technical, and Adult Education, U. S. Department of Education. However, the contents do not necessarily represent the positions or policies of the Office of Career, Technical, and Adult Education or the U.S. Department of Education, and you should not assume endorsement by the Federal Government.&lt;/p&gt;
+&lt;p&gt;Click the &lt;b&gt;forward arrow &lt;/b&gt;to begin.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1469738665</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="798">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and participate in course discussions</title>
+        <content>&lt;h1&gt;Join the LINCS Community and participate in course discussions&lt;/h1&gt;
+&lt;p&gt;This online course is designed for teachers of adult learners with learning disabilities (LD). As with all LINCS courses, this course includes opportunities to connect with other adult education practitioners interested in the field of LD. If you haven’t already done so, take a moment to register as a member of the &lt;a href="https://community.lincs.ed.gov/"&gt;LINCS Community&lt;/a&gt; and participate in the discussions related to this course. The discussions provide an open forum to share your thoughts, ideas, and questions with other adult education practitioners.&lt;/p&gt;
+&lt;p&gt;Throughout this course, you will have the opportunity to share your stories and insights as you learn ways to support your students with LD in self-disclosing their disability appropriately, while ensuring your program’s compliance with federal laws. This is a great opportunity to share and learn from others. We encourage you to participate.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/LINCS_screengrab_07_18_2016.PNG" width="580" height="586" alt="screen grab of the LINCS community home page" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468954824</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="799">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Course objectives</title>
+        <content>&lt;h1&gt;Course objectives&lt;/h1&gt;
+&lt;p&gt;In this Course, we will examine legal and ethical issues that specifically affect adults with learning disabilities (LD). We are not offering you this information so you can provide legal advice to individuals with LD you work with, but rather so you have an understanding of the law to guide your professional practice.&lt;/p&gt;
+&lt;p&gt;Upon completion of this course, you will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;identify the legal, &lt;span class="nolink"&gt;self-disclosure&lt;/span&gt; and &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; issues that are relevant to service providers working with adults with LD; and&lt;/li&gt;
+&lt;li&gt;discuss possible implications for service delivery when a student discloses a learning disability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please allow approximately 1 hour to complete this course. However, you are free to leave the session at any time. When you exit the courseware, a bookmark is automatically placed at your last location to allow you to pick up where you left off when you return.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/gavel.jpg" width="580" height="435" alt="Photo of a gavel resting on a desk." /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1469738693</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="800">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Guiding questions</title>
+        <content>&lt;h1&gt;Guiding questions&lt;/h1&gt;
+&lt;p&gt;To help guide our learning, we will refer to three guiding questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Which &lt;b&gt;federal laws&lt;/b&gt; affect adults with LD?&lt;/li&gt;
+&lt;li&gt;What does choosing &lt;b&gt;to disclose or not to disclose&lt;/b&gt; mean to adults with LD?&lt;/li&gt;
+&lt;li&gt;How can information about LD be kept &lt;b&gt;confidential&lt;/b&gt;?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is important for adults with LD to be aware of existing federal laws in order to understand their rights as individuals with disabilities and how to advocate for those rights in both school and work environments. The relevant laws change as individuals with LD leave secondary school and become adults. Adults with LD must understand these laws in order to exercise their rights and ask for accommodations. We’ll talk about each of these guiding questions one at a time. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/intro_collage.jpg" width="580" height="132" alt="Collage of three photos: a dictionary open to the definition of “law”; a student consults with a teacher; a file marked “confidential.”" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Guiding Question #1, Federal laws affecting adults with LD&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468954875</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

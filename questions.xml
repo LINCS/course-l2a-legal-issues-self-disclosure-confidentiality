@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="223">
+    <name>Default for L2A Legal Issues v2</name>
+    <contextid>19760</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>158</contextinstanceid>
+    <info>The default category for questions shared in context 'L2A Legal Issues v2'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160720145326+Re6YGv</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1469">
+        <parent>0</parent>
+        <name>Scenario #3</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #3&lt;/h1&gt;
+&lt;p&gt;A program keeps student information in a locked file cabinet that can only be accessed with permission. The program trains each new staff hire in access procedures for this information.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Keeping student information in a locked file cabinet with limited access maintains &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;, so the correct answer is &lt;strong&gt;No&lt;/strong&gt;, it &lt;strong&gt;is not&lt;/strong&gt; a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;. As an extra measure, it is good practice to train staff in access procedures for student information.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727202647+gRE5GB</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163527+cPwlsk</version>
+        <hidden>0</hidden>
+        <timecreated>1469651207</timecreated>
+        <timemodified>1469723727</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4600">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4601">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="815">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Keeping student information in a locked file cabinet with limited access maintains &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, so the correct answer is &lt;/span&gt;&lt;strong&gt;No&lt;/strong&gt;&lt;span&gt;, it &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;. As an extra measure, it is good practice to train staff in access procedures for student information.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Keeping student information in a locked file cabinet with limited access maintains &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, so the correct answer is &lt;/span&gt;&lt;strong&gt;No&lt;/strong&gt;&lt;span&gt;, it &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;. As an extra measure, it is good practice to train staff in access procedures for student information.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1470">
+        <parent>0</parent>
+        <name>Scenario #2</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #2&lt;/h1&gt;
+&lt;p&gt;On a program intake form, a question asks participants to describe their school experiences. During the intake interview, participants are invited to give more details about programs they were in.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;
+&lt;p class="Prompt"&gt; &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;It &lt;strong&gt;is not&lt;/strong&gt; a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; to ask general questions about school experiences on a program intake form or to invite participants to provide details about programs they were in.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727203241+UaTwYV</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163505+ncqYVW</version>
+        <hidden>0</hidden>
+        <timecreated>1469651561</timecreated>
+        <timemodified>1469723705</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4602">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4603">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="816">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;It &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt; to ask general questions about school experiences on a program intake form or to invite participants to provide details about programs they were in.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;It &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt; to ask general questions about school experiences on a program intake form or to invite participants to provide details about programs they were in.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1471">
+        <parent>0</parent>
+        <name>Scenario #1</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #1&lt;/h1&gt;
+&lt;p&gt;On her attendance sheet, a teacher makes notes about students’ special learning needs. She’s marked “LD” next to a student, Gary, who has a documented learning disability. She keeps this information in a file folder on her desk.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;c&lt;span class="nolink"&gt;onfidentiality&lt;/span&gt;&lt;/span&gt;?&lt;/p&gt;
+&lt;p class="Prompt"&gt; &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;It is not good practice to make notes on an attendance sheet regarding a student’s special learning needs. This scenario depicts a likely &lt;strong&gt;breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;/strong&gt;, as Gary’s information can be easily accessed by other students.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727204154+uXJQfO</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163447+LpPeNF</version>
+        <hidden>0</hidden>
+        <timecreated>1469652114</timecreated>
+        <timemodified>1469723687</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4604">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4605">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="817">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;It is not good practice to make notes on an attendance sheet regarding a student’s special learning needs. This scenario depicts a likely &lt;/span&gt;&lt;strong&gt;breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, as Gary’s information can be easily accessed by other students.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;It is not good practice to make notes on an attendance sheet regarding a student’s special learning needs. This scenario depicts a likely &lt;/span&gt;&lt;strong&gt;breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, as Gary’s information can be easily accessed by other students.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1472">
+        <parent>0</parent>
+        <name>Scenario #4</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #4&lt;/h1&gt;
+&lt;p&gt;You are at a restaurant for lunch with one of your coworkers, and you are both working with Crystal, who has a documented learning disability. You briefly discuss her need for a scribe when she takes the GED test.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Discussing accommodation needs of a student with a documented learning disability in a public place, like a restaurant, &lt;strong&gt;is&lt;/strong&gt; likely to be a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;, because you can easily be overheard.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727211235+yOZgUR</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163544+Mr3USH</version>
+        <hidden>0</hidden>
+        <timecreated>1469653955</timecreated>
+        <timemodified>1469723744</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4606">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4607">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="818">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Discussing accommodation needs of a student with a documented learning disability in a public place, like a restaurant, &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; likely to be a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, because you can easily be overheard.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Discussing accommodation needs of a student with a documented learning disability in a public place, like a restaurant, &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; likely to be a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, because you can easily be overheard.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1473">
+        <parent>0</parent>
+        <name>Scenario #5</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #5&lt;/h1&gt;
+&lt;p&gt;Bob has been working with Samantha for a few months, and he suspects that she may have a reading disability. One day after class, he pulls her aside to privately ask her if she has ever been tested for LD.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;A teacher directly asking a student if he or she has a disability is considered a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;. Alternatively, Bob could ask Samantha general questions, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“In school, what were your favorite and least favorite subjects?”&lt;/li&gt;
+&lt;li&gt;“What are your areas of strength and areas you would like to improve?”&lt;/li&gt;
+&lt;li&gt;“In the past, what made learning a challenge?”&lt;/li&gt;
+&lt;/ul&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727211446+0iB3rf</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163603+BhBGfR</version>
+        <hidden>0</hidden>
+        <timecreated>1469654086</timecreated>
+        <timemodified>1469723763</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4608">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4609">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="819">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;A teacher directly asking a student if he or she has a disability is considered a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;. Alternatively, Bob could ask Samantha general questions, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“In school, what were your favorite and least favorite subjects?”&lt;/li&gt;
+&lt;li&gt;“What are your areas of strength and areas you would like to improve?”&lt;/li&gt;
+&lt;li&gt;“In the past, what made learning a challenge?”&lt;/li&gt;
+&lt;/ul&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;A teacher directly asking a student if he or she has a disability is considered a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;. Alternatively, Bob could ask Samantha general questions, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“In school, what were your favorite and least favorite subjects?”&lt;/li&gt;
+&lt;li&gt;“What are your areas of strength and areas you would like to improve?”&lt;/li&gt;
+&lt;li&gt;“In the past, what made learning a challenge?”&lt;/li&gt;
+&lt;/ul&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1474">
+        <parent>0</parent>
+        <name>Scenario #7</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #7&lt;/h1&gt;
+&lt;p&gt;You have been tutoring Maggie, and you notice that she is a slow and laborious writer. You ask her if she would like to learn how to use the computer next time to make written work easier.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;As Maggie’s tutor, asking her if she would like to learn how to use the computer to make her work easier is a normal way to support her writing. Since there has been no mention of disabilities, this &lt;strong&gt;is not&lt;/strong&gt; a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727211857+8RXFFr</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163640+R24MXU</version>
+        <hidden>0</hidden>
+        <timecreated>1469654337</timecreated>
+        <timemodified>1469723800</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4610">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4611">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="820">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As Maggie’s tutor, asking her if she would like to learn how to use the computer to make her work easier is a normal way to support her writing. Since there has been no mention of disabilities, this &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As Maggie’s tutor, asking her if she would like to learn how to use the computer to make her work easier is a normal way to support her writing. Since there has been no mention of disabilities, this &lt;/span&gt;&lt;strong&gt;is not&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1475">
+        <parent>0</parent>
+        <name>Scenario #8</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #8&lt;/h1&gt;
+&lt;p&gt;Jose brings his teacher a diagnostic report documenting his learning disability. The teacher keeps the report with her student files.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Keeping a student’s diagnostic report with student files &lt;strong&gt;is&lt;/strong&gt; likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;. Jose’s teacher should keep his report in a secure place that can be accessed only by authorized personnel.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727212004+8ZzIGd</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163700+AxqWjR</version>
+        <hidden>0</hidden>
+        <timecreated>1469654404</timecreated>
+        <timemodified>1469723820</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4612">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4613">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="821">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Keeping a student’s diagnostic report with student files &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; likely a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;. Jose’s teacher should keep his report in a secure place that can be accessed only by authorized personnel.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Keeping a student’s diagnostic report with student files &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; likely a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;. Jose’s teacher should keep his report in a secure place that can be accessed only by authorized personnel.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="224">
+    <name>Rehab Act vs IDEA</name>
+    <contextid>19760</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>158</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160720145924+YiqO6h</stamp>
+    <parent>223</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1476">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;Which federal law requires schools to identify individuals with disabilities birth – age 21?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;&lt;strong&gt;IDEA&lt;/strong&gt; requires schools to provide diagnostic and assessments services for those suspected of having a disability, while the &lt;strong&gt;Rehab Act&lt;/strong&gt; places the burden of assessment and providing documentation of the disability on the individual.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720150218+9bOawi</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728153012+bi0e7B</version>
+        <hidden>0</hidden>
+        <timecreated>1469026938</timecreated>
+        <timemodified>1469719812</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4614">
+              <answertext>&lt;p&gt;Rehab Act&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4615">
+              <answertext>&lt;p&gt;IDEA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="822">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rehab Act&lt;/strong&gt; requires federally funded employers and schools to allow for &lt;em&gt;reasonable&lt;/em&gt; accommodations in supporting individuals with disabilities to access education and employment. These accommodations must not place an undue burden on the employer or school). In contrast, &lt;strong&gt;IDEA&lt;/strong&gt; requires schools to provide services for a free appropriate public education in the least restrictive environment at no charge to the individual with a disability or the individual’s family.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;&lt;span&gt;Your answer is incorrect.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rehab Act&lt;/strong&gt; requires federally funded employers and schools to allow for &lt;em&gt;reasonable&lt;/em&gt; accommodations in supporting individuals with disabilities to access education and employment. These accommodations must not place an undue burden on the employer or school). In contrast, &lt;strong&gt;IDEA&lt;/strong&gt; requires schools to provide services for a free appropriate public education in the least restrictive environment at no charge to the individual with a disability or the individual’s family.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1477">
+        <parent>0</parent>
+        <name>question 2</name>
+        <questiontext>&lt;p&gt;Which law requires federally funded employers and schools to allow for &lt;em&gt;reasonable&lt;/em&gt; accommodations?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;The &lt;strong&gt;Rehab Act&lt;/strong&gt; requires federally funded employers and schools to allow for &lt;em&gt;reasonable&lt;/em&gt; accommodations in supporting individuals with disabilities to access education and employment. These accommodations must not place an undue burden on the employer or school). In contrast, &lt;strong&gt;IDEA&lt;/strong&gt; requires schools to provide services for a free appropriate public education in the least restrictive environment at no charge to the individual with a disability or the individual’s family.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720151023+L1vJ1U</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728152622+FgP5kI</version>
+        <hidden>0</hidden>
+        <timecreated>1469027423</timecreated>
+        <timemodified>1469719582</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4616">
+              <answertext>&lt;p&gt;Rehab Act&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4617">
+              <answertext>&lt;p&gt;IDEA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="823">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; requires federally funded employers and schools to allow for &lt;/span&gt;&lt;em&gt;reasonable&lt;/em&gt;&lt;span&gt; accommodations in supporting individuals with disabilities to access education and employment. These accommodations must not place an undue burden on the employer or school). In contrast, &lt;/span&gt;&lt;strong&gt;IDEA&lt;/strong&gt;&lt;span&gt; requires schools to provide services for a free appropriate public education in the least restrictive environment at no charge to the individual with a disability or the individual’s family.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; requires federally funded employers and schools to allow for &lt;/span&gt;&lt;em&gt;reasonable&lt;/em&gt;&lt;span&gt; accommodations in supporting individuals with disabilities to access education and employment. These accommodations must not place an undue burden on the employer or school). In contrast, &lt;/span&gt;&lt;strong&gt;IDEA&lt;/strong&gt;&lt;span&gt; requires schools to provide services for a free appropriate public education in the least restrictive environment at no charge to the individual with a disability or the individual’s family.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1478">
+        <parent>0</parent>
+        <name>question 3</name>
+        <questiontext>&lt;h3&gt;&lt;span style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt;Which law requires individuals to self-disclose, and even self-advocate, in order to access appropriate services and supports?&lt;/span&gt;&lt;/h3&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;The &lt;strong&gt;Rehab Act&lt;/strong&gt; requires &lt;span class="nolink"&gt;self-disclosure&lt;/span&gt; by the individual with a disability. In addition, individuals covered under the &lt;strong&gt;Rehab Ac&lt;/strong&gt;t often need to self-advocate in order to access appropriate services and supports. In contrast, &lt;strong&gt;IDEA &lt;/strong&gt;records disabilities and accommodations information in the student’s Individualized Education Plan (IEP). School are required to provide the services documented in the IEP.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720152418+k8OrGx</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728152715+Y9wO6k</version>
+        <hidden>0</hidden>
+        <timecreated>1469028258</timecreated>
+        <timemodified>1469719635</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4618">
+              <answertext>&lt;p&gt;Rehab Act&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4619">
+              <answertext>&lt;p&gt;IDEA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="824">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; requires &lt;/span&gt;&lt;span class="nolink"&gt;self-disclosure&lt;/span&gt;&lt;span&gt; by the individual with a disability. In addition, individuals covered under the &lt;/span&gt;&lt;strong&gt;Rehab Ac&lt;/strong&gt;&lt;span&gt;t often need to self-advocate in order to access appropriate services and supports. In contrast, &lt;/span&gt;&lt;strong&gt;IDEA &lt;/strong&gt;&lt;span&gt;records disabilities and accommodations information in the student’s Individualized Education Plan (IEP). School are required to provide the services documented in the IEP.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; requires &lt;/span&gt;&lt;span class="nolink"&gt;self-disclosure&lt;/span&gt;&lt;span&gt; by the individual with a disability. In addition, individuals covered under the &lt;/span&gt;&lt;strong&gt;Rehab Ac&lt;/strong&gt;&lt;span&gt;t often need to self-advocate in order to access appropriate services and supports. In contrast, &lt;/span&gt;&lt;strong&gt;IDEA &lt;/strong&gt;&lt;span&gt;records disabilities and accommodations information in the student’s Individualized Education Plan (IEP). School are required to provide the services documented in the IEP.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1479">
+        <parent>0</parent>
+        <name>question 4</name>
+        <questiontext>&lt;p&gt;Which law provides funding to schools for assessment, special education, and appropriate services?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;&lt;strong&gt;IDEA&lt;/strong&gt; provides funding to schools for assessment, special education, and appropriate services, while the &lt;strong&gt;Rehab Act&lt;/strong&gt; provides only limited funding to state rehabilitation agencies. These funds are distributed to individuals with disabilities based on severity of need.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720152654+CF0wH1</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728152735+E00Syf</version>
+        <hidden>0</hidden>
+        <timecreated>1469028414</timecreated>
+        <timemodified>1469719655</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4620">
+              <answertext>&lt;p&gt;Rehab Act&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4621">
+              <answertext>&lt;p&gt;IDEA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="825">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IDEA&lt;/strong&gt;&lt;span&gt; provides funding to schools for assessment, special education, and appropriate services, while the &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; provides only limited funding to state rehabilitation agencies. These funds are distributed to individuals with disabilities based on severity of need.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IDEA&lt;/strong&gt;&lt;span&gt; provides funding to schools for assessment, special education, and appropriate services, while the &lt;/span&gt;&lt;strong&gt;Rehab Act&lt;/strong&gt;&lt;span&gt; provides only limited funding to state rehabilitation agencies. These funds are distributed to individuals with disabilities based on severity of need.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="225">
+    <name>Default for Rehab Act vs. IDEA</name>
+    <contextid>19774</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5895</contextinstanceid>
+    <info>The default category for questions shared in context 'Rehab Act vs. IDEA'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160720152923+R3xPSw</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="226">
+    <name>Case Study questions</name>
+    <contextid>19760</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>158</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160720180127+PqQkvL</stamp>
+    <parent>223</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1480">
+        <parent>0</parent>
+        <name>Case Study: Shiree</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;&lt;strong&gt;Case Study: Shiree&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Shiree is 23 years old and was diagnosed with a learning disability in second grade. She dropped out of high school at 18, and has been in and out of employment ever since. Shiree has been advancing slowly in Adult Basic Education classes. She does very well in math but continues to have great difficulty with reading comprehension and simple writing tasks because of her learning disability. Shiree has applied for a job working for an afterschool program for kindergarteners run by the local school system. The program director calls her and informs her that she would like her to start work right away.&lt;/p&gt;
+&lt;p&gt;What rights and protections does Shiree have under the Rehab Act? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Under the Rehab Act, Shiree has the right to &lt;strong&gt;reasonable accommodations for reading and writing tasks&lt;/strong&gt;, and &lt;strong&gt;equal access to employment&lt;/strong&gt;. She also has the right to &lt;strong&gt;choose to not disclose her disability&lt;/strong&gt;. As she has dropped out of the school system, she is no longer covered by IDEA and thus does not have the right to an IEP.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720180743+80hFo6</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154655+Hi2mQx</version>
+        <hidden>0</hidden>
+        <timecreated>1469038063</timecreated>
+        <timemodified>1469720815</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4622">
+              <answertext>&lt;p&gt;Reasonable accommodations for reading and writing tasks&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4623">
+              <answertext>&lt;p&gt;An Individualized Education Plan (IEP)&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4624">
+              <answertext>&lt;p&gt;To not disclose her disability&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4625">
+              <answertext>&lt;p&gt;Equal access to employment&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="826">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Shiree has the right to &lt;/span&gt;&lt;strong&gt;reasonable accommodations for reading and writing tasks&lt;/strong&gt;&lt;span&gt;, and &lt;/span&gt;&lt;strong&gt;equal access to employment&lt;/strong&gt;&lt;span&gt;. She also has the right to &lt;/span&gt;&lt;strong&gt;choose to not disclose her disability&lt;/strong&gt;&lt;span&gt;. As she has dropped out of the school system, she is no longer covered by IDEA and thus does not have the right to an IEP.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Shiree has the right to &lt;/span&gt;&lt;strong&gt;reasonable accommodations for reading and writing tasks&lt;/strong&gt;&lt;span&gt;, and &lt;/span&gt;&lt;strong&gt;equal access to employment&lt;/strong&gt;&lt;span&gt;. She also has the right to &lt;/span&gt;&lt;strong&gt;choose to not disclose her disability&lt;/strong&gt;&lt;span&gt;. As she has dropped out of the school system, she is no longer covered by IDEA and thus does not have the right to an IEP.&lt;/span&gt;&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Shiree has the right to &lt;/span&gt;&lt;strong&gt;reasonable accommodations for reading and writing tasks&lt;/strong&gt;&lt;span&gt;, and &lt;/span&gt;&lt;strong&gt;equal access to employment&lt;/strong&gt;&lt;span&gt;. She also has the right to &lt;/span&gt;&lt;strong&gt;choose to not disclose her disability&lt;/strong&gt;&lt;span&gt;. As she has dropped out of the school system, she is no longer covered by IDEA and thus does not have the right to an IEP.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1481">
+        <parent>0</parent>
+        <name>Case Study: Shiree (cont’d)</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;Case Study: Shiree (cont’d)&lt;/h3&gt;
+&lt;p&gt;If Shiree chooses to self-disclose, what information do you recommend she provide? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Shiree should provide her employer with &lt;strong&gt;a description of her areas of strength&lt;/strong&gt;, as well as her &lt;strong&gt;areas of need relating to her job performance&lt;/strong&gt;. In most cases her employer will not need or want a copy of her psychological assessment or IEP.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720180953+GITzrO</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154803+DmZoYd</version>
+        <hidden>0</hidden>
+        <timecreated>1469038193</timecreated>
+        <timemodified>1469720883</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4626">
+              <answertext>&lt;p&gt;A copy of her most recent IEP&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4627">
+              <answertext>&lt;p&gt;Areas of need related to her ability to perform job tasks&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4628">
+              <answertext>&lt;p&gt;A description of her areas of strength&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4629">
+              <answertext>&lt;p&gt;A copy of her most recent psychological assessment report as proof of her disability&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="827">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Shiree should provide her employer with &lt;/span&gt;&lt;strong&gt;a description of her areas of strength&lt;/strong&gt;&lt;span&gt;, as well as her &lt;/span&gt;&lt;strong&gt;areas of need relating to her job performance&lt;/strong&gt;&lt;span&gt;. In most cases her employer will not need or want a copy of her psychological assessment or IEP.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Shiree should provide her employer with &lt;/span&gt;&lt;strong&gt;a description of her areas of strength&lt;/strong&gt;&lt;span&gt;, as well as her &lt;/span&gt;&lt;strong&gt;areas of need relating to her job performance&lt;/strong&gt;&lt;span&gt;. In most cases her employer will not need or want a copy of her psychological assessment or IEP.&lt;/span&gt;&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Shiree should provide her employer with &lt;/span&gt;&lt;strong&gt;a description of her areas of strength&lt;/strong&gt;&lt;span&gt;, as well as her &lt;/span&gt;&lt;strong&gt;areas of need relating to her job performance&lt;/strong&gt;&lt;span&gt;. In most cases her employer will not need or want a copy of her psychological assessment or IEP.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1482">
+        <parent>0</parent>
+        <name>Case Study: Geo</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;Case Study: Geo&lt;/h3&gt;
+&lt;p&gt;Geo, 21, has just obtained a GED credential. Based on his learning disability in the area of writing, he was allowed the accommodation of a scribe in high school and for the GED test. (The accommodation of a scribe is always accompanied by extra time.)&lt;/p&gt;
+&lt;p&gt;Geo is in the process of enrolling at a community college. He will be seeking an associate’s degree in automotive technology.&lt;/p&gt;
+&lt;p&gt;What rights and protections does Geo have under the Rehab Act? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;With his GED, Geo should be considered a qualified applicant for the community college, and he has the right to access reasonable accommodations for required writing tasks. To access these accommodations, however, he will need to self-disclose and may need to self-advocate. The Rehab act does not require the community college to provide diagnostic services to Geo. If he is in need of those services, they may be available from a local rehabilitation agency based on their order of selection.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720184909+6QGb2A</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154832+ehxwOQ</version>
+        <hidden>0</hidden>
+        <timecreated>1469040549</timecreated>
+        <timemodified>1469720912</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4630">
+              <answertext>&lt;p&gt;With his GED, to be considered a qualified applicant&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4631">
+              <answertext>&lt;p&gt;Reasonable accommodations for writing tasks&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4632">
+              <answertext>&lt;p&gt;College-funded diagnostic assessment&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4633">
+              <answertext>&lt;p&gt;To self-disclose and self-advocate&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="828">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;With his GED, Geo should be considered a qualified applicant for the community college, and he has the right to access reasonable accommodations for required writing tasks. To access these accommodations, however, he will need to self-disclose and may need to self-advocate. The Rehab act does not require the community college to provide diagnostic services to Geo. If he is in need of those services, they may be available from a local rehabilitation agency based on their order of selection.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;With his GED, Geo should be considered a qualified applicant for the community college, and he has the right to access reasonable accommodations for required writing tasks. To access these accommodations, however, he will need to self-disclose and may need to self-advocate. The Rehab act does not require the community college to provide diagnostic services to Geo. If he is in need of those services, they may be available from a local rehabilitation agency based on their order of selection.&lt;/span&gt;&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;With his GED, Geo should be considered a qualified applicant for the community college, and he has the right to access reasonable accommodations for required writing tasks. To access these accommodations, however, he will need to self-disclose and may need to self-advocate. The Rehab act does not require the community college to provide diagnostic services to Geo. If he is in need of those services, they may be available from a local rehabilitation agency based on their order of selection.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1483">
+        <parent>0</parent>
+        <name>Case Study: Geo (cont’d)</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;Case Study: Geo (cont’d)&lt;/h3&gt;
+&lt;p&gt;If Geo chooses to self-disclose, what information do you recommend he provide? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;At a minimum, Geo should provide &lt;strong&gt;information on the specific tasks for which he needs a scribe&lt;/strong&gt;, as well as his &lt;strong&gt;areas of strength&lt;/strong&gt;. If a summary of performance document is available, he may choose to share it with the college as a resource for planning his education and supports. Geo may be asked to provide a recent psychological assessment report in order to gain specific accommodations for standardized assessments administered by the college, but should provide this information &lt;em&gt;only as needed&lt;/em&gt;.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720185512+efrFyf</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154904+BagIeq</version>
+        <hidden>0</hidden>
+        <timecreated>1469040912</timecreated>
+        <timemodified>1469720944</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4634">
+              <answertext>&lt;p&gt;Specific tasks for which he needs a scribe&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4635">
+              <answertext>&lt;p&gt;Summary of Performance, if available&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4636">
+              <answertext>&lt;p&gt;A description of his areas of strength&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4637">
+              <answertext>&lt;p&gt;A copy of his most recent psychological assessment report as proof of his disability&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="829">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;At a minimum, Geo should provide &lt;/span&gt;&lt;strong&gt;information on the specific tasks for which he needs a scribe&lt;/strong&gt;&lt;span&gt;, as well as his &lt;/span&gt;&lt;strong&gt;areas of strength&lt;/strong&gt;&lt;span&gt;. If a summary of performance document is available, he may choose to share it with the college as a resource for planning his education and supports. Geo may be asked to provide a recent psychological assessment report in order to gain specific accommodations for standardized assessments administered by the college, but should provide this information &lt;/span&gt;&lt;em&gt;only as needed&lt;/em&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;At a minimum, Geo should provide &lt;/span&gt;&lt;strong&gt;information on the specific tasks for which he needs a scribe&lt;/strong&gt;&lt;span&gt;, as well as his &lt;/span&gt;&lt;strong&gt;areas of strength&lt;/strong&gt;&lt;span&gt;. If a summary of performance document is available, he may choose to share it with the college as a resource for planning his education and supports. Geo may be asked to provide a recent psychological assessment report in order to gain specific accommodations for standardized assessments administered by the college, but should provide this information &lt;/span&gt;&lt;em&gt;only as needed&lt;/em&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;At a minimum, Geo should provide &lt;/span&gt;&lt;strong&gt;information on the specific tasks for which he needs a scribe&lt;/strong&gt;&lt;span&gt;, as well as his &lt;/span&gt;&lt;strong&gt;areas of strength&lt;/strong&gt;&lt;span&gt;. If a summary of performance document is available, he may choose to share it with the college as a resource for planning his education and supports. Geo may be asked to provide a recent psychological assessment report in order to gain specific accommodations for standardized assessments administered by the college, but should provide this information &lt;/span&gt;&lt;em&gt;only as needed&lt;/em&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1484">
+        <parent>0</parent>
+        <name>Case Study: Corey</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;Case Study: Corey&lt;/h3&gt;
+&lt;p&gt;Corey, 26, struggled throughout his years in school because of depression, attention deficit hyperactivity disorder, and diagnosed math learning disabilities. He dropped out in 10th grade and has worked a variety of jobs in fast food, delivery services, and construction.&lt;/p&gt;
+&lt;p&gt;He is now enrolled in ABE classes with the goal of attaining a GED credential. After the first few classes he recognizes that he is struggling with the same learning issues he faced previously.&lt;/p&gt;
+&lt;p&gt;What rights and protections does Corey have under the Rehab Act? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Under the Rehab Act, Corey has the right to &lt;strong&gt;equal access to the adult education program &lt;/strong&gt;and &lt;strong&gt;reasonable accommodations for learning and testing&lt;/strong&gt;. He also has the right to &lt;strong&gt;choose to self-advocate for those accommodations&lt;/strong&gt;.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720185737+0bVOSH</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154930+erHroy</version>
+        <hidden>0</hidden>
+        <timecreated>1469041057</timecreated>
+        <timemodified>1469720970</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4638">
+              <answertext>&lt;p&gt;Reasonable accommodations for learning and testing&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4639">
+              <answertext>&lt;p&gt;To choose to self-advocate&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4640">
+              <answertext>&lt;p&gt;A least restrictive learning environment&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4641">
+              <answertext>&lt;p&gt;Equal access to the adult education program&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="830">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Corey has the right to &lt;/span&gt;&lt;strong&gt;equal access to the adult education program &lt;/strong&gt;&lt;span&gt;and &lt;/span&gt;&lt;strong&gt;reasonable accommodations for learning and testing&lt;/strong&gt;&lt;span&gt;. He also has the right to &lt;/span&gt;&lt;strong&gt;choose to self-advocate for those accommodations&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Corey has the right to &lt;/span&gt;&lt;strong&gt;equal access to the adult education program &lt;/strong&gt;&lt;span&gt;and &lt;/span&gt;&lt;strong&gt;reasonable accommodations for learning and testing&lt;/strong&gt;&lt;span&gt;. He also has the right to &lt;/span&gt;&lt;strong&gt;choose to self-advocate for those accommodations&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Under the Rehab Act, Corey has the right to &lt;/span&gt;&lt;strong&gt;equal access to the adult education program &lt;/strong&gt;&lt;span&gt;and &lt;/span&gt;&lt;strong&gt;reasonable accommodations for learning and testing&lt;/strong&gt;&lt;span&gt;. He also has the right to &lt;/span&gt;&lt;strong&gt;choose to self-advocate for those accommodations&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1485">
+        <parent>0</parent>
+        <name>Case Study: Corey (cont’d)</name>
+        <questiontext>&lt;h3 class="Subhead"&gt;Case Study: Corey (cont’d)&lt;/h3&gt;
+&lt;p&gt;If Corey chooses to self-disclose, what information do you recommend he provide? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;If Corey chooses to do so, all of the following information would be of value to his adult education instructors in planning instruction and appropriate supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How he has previously learned best&lt;/li&gt;
+&lt;li&gt;What has and has not worked for him in math instruction&lt;/li&gt;
+&lt;li&gt;Issues he has encountered in his current instruction&lt;/li&gt;
+&lt;li&gt;How he has learned to cope with his depression, ADHD, and learning disability&lt;/li&gt;
+&lt;/ul&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160720185935+qRfDMN</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728154959+7fBTtE</version>
+        <hidden>0</hidden>
+        <timecreated>1469041175</timecreated>
+        <timemodified>1469720999</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4642">
+              <answertext>&lt;p&gt;How he has previously learned best&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4643">
+              <answertext>&lt;p&gt;What has and has not worked for him in math instruction&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4644">
+              <answertext>&lt;p&gt;Issues he has encountered in his current instruction&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4645">
+              <answertext>&lt;p&gt;How he has learned to cope with his depression, ADHD, and learning disability&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="831">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;If Corey chooses to do so, all of the following information would be of value to his adult education instructors in planning instruction and appropriate supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How he has previously learned best&lt;/li&gt;
+&lt;li&gt;What has and has not worked for him in math instruction&lt;/li&gt;
+&lt;li&gt;Issues he has encountered in his current instruction&lt;/li&gt;
+&lt;li&gt;How he has learned to cope with his depression, ADHD, and learning disability&lt;/li&gt;
+&lt;/ul&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;
+&lt;p&gt;If Corey chooses to do so, all of the following information would be of value to his adult education instructors in planning instruction and appropriate supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How he has previously learned best&lt;/li&gt;
+&lt;li&gt;What has and has not worked for him in math instruction&lt;/li&gt;
+&lt;li&gt;Issues he has encountered in his current instruction&lt;/li&gt;
+&lt;li&gt;How he has learned to cope with his depression, ADHD, and learning disability&lt;/li&gt;
+&lt;/ul&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;If Corey chooses to do so, all of the following information would be of value to his adult education instructors in planning instruction and appropriate supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How he has previously learned best&lt;/li&gt;
+&lt;li&gt;What has and has not worked for him in math instruction&lt;/li&gt;
+&lt;li&gt;Issues he has encountered in his current instruction&lt;/li&gt;
+&lt;li&gt;How he has learned to cope with his depression, ADHD, and learning disability&lt;/li&gt;
+&lt;/ul&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="227">
+    <name>Default for Rehab Act Case Studies</name>
+    <contextid>19776</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5897</contextinstanceid>
+    <info>The default category for questions shared in context 'Rehab Act Case Studies'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160720190816+wQAdJE</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="228">
+    <name>Default for Quiz - Identify Breaches of Confidentiality</name>
+    <contextid>19784</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5905</contextinstanceid>
+    <info>The default category for questions shared in context 'Quiz - Identify Breaches of Confidentiality'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+160727200850+BBZ5Y0</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1486">
+        <parent>0</parent>
+        <name>1</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #1&lt;/h1&gt;
+&lt;p&gt;On her attendance sheet, a teacher makes notes about students’ special learning needs. She’s marked “LD” next to a student, Gary, who has a documented learning disability. She keeps this information in a file folder on her desk.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;It is not good practice to make notes on an attendance sheet regarding a student’s special learning needs. This scenario depicts a likely &lt;strong&gt;breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;/strong&gt;, as Gary’s information can be easily accessed by other students.&lt;/p&gt;
+&lt;p&gt;Click the &lt;strong&gt;forward arrow&lt;/strong&gt; for the next scenario.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727201030+2CzfQC</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160727201030+evVN5y</version>
+        <hidden>0</hidden>
+        <timecreated>1469650230</timecreated>
+        <timemodified>1469650230</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="4646">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4647">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="155">
+            <trueanswer>4646</trueanswer>
+            <falseanswer>4647</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1487">
+        <parent>0</parent>
+        <name>Scenario #2</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #2&lt;/h1&gt;
+&lt;p&gt;On a program intake form, a question asks participants to describe their school experiences. During the intake interview, participants are invited to give more details about programs they were in.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #993300;"&gt;Select either True or False, then click the &lt;strong&gt;forward arrow&lt;/strong&gt; to check your answer.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;It &lt;strong&gt;is not&lt;/strong&gt; a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt; to ask general questions about school experiences on a program intake form or to invite participants to provide details about programs they were in.&lt;/p&gt;
+&lt;p&gt;Click the &lt;strong&gt;forward arrow&lt;/strong&gt; for the next scenario.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727202355+pAalzK</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160727202355+y0NuRD</version>
+        <hidden>0</hidden>
+        <timecreated>1469651035</timecreated>
+        <timemodified>1469651035</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="4648">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4649">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="156">
+            <trueanswer>4648</trueanswer>
+            <falseanswer>4649</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1488">
+        <parent>0</parent>
+        <name>Scenario #6</name>
+        <questiontext>&lt;h1 class="Subhead"&gt;Scenario #6&lt;/h1&gt;
+&lt;p&gt;On a program intake form, there is a place for the interviewer to note if the person disclosed LD. These intake forms are then filed by the program’s support staff. The student was not presented with any informed consent forms during intake.&lt;/p&gt;
+&lt;p&gt;Is this likely a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Once an individual has disclosed a disability, the educational institution or workplace is responsible for keeping that individual’s disability confidential, and may not release any part of the documentation without the person’s informed and written consent. Therefore, the scenario &lt;strong&gt;is&lt;/strong&gt; a breach of &lt;span class="nolink"&gt;confidentiality&lt;/span&gt;, and could result in a violation of an individual’s rights under the Rehab Act or ADAAA.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+160727211725+0i0xXh</stamp>
+        <version>ovae-moodle-dev.myquotient.net+160728163622+3BGVWC</version>
+        <hidden>0</hidden>
+        <timecreated>1469654245</timecreated>
+        <timemodified>1469723782</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4650">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4651">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="832">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Once an individual has disclosed a disability, the educational institution or workplace is responsible for keeping that individual’s disability confidential, and may not release any part of the documentation without the person’s informed and written consent. Therefore, the scenario &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, and could result in a violation of an individual’s rights under the Rehab Act or ADAAA.&lt;/span&gt;&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Once an individual has disclosed a disability, the educational institution or workplace is responsible for keeping that individual’s disability confidential, and may not release any part of the documentation without the person’s informed and written consent. Therefore, the scenario &lt;/span&gt;&lt;strong&gt;is&lt;/strong&gt;&lt;span&gt; a breach of &lt;/span&gt;&lt;span class="nolink"&gt;confidentiality&lt;/span&gt;&lt;span&gt;, and could result in a violation of an individual’s rights under the Rehab Act or ADAAA.&lt;/span&gt;&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+</question_categories>
